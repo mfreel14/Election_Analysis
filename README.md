@@ -14,10 +14,10 @@ A Colorado Board of Elections employee has given you the the following tasks to 
 -  Software:  Python 3.6.7, Visual Studio Code, 1.57.1
 
 
-## Challenge Summary
+# Challenge Summary
 
 
-#  Election-Audit Results:
+##  Election-Audit Results:
 
 <img width="302" alt="Deliverable 1" src="https://user-images.githubusercontent.com/691355/125178421-93bfd280-e199-11eb-88f0-be6ac5151b31.png">
 
