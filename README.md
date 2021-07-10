@@ -21,14 +21,18 @@ A Colorado Board of Elections employee has given you the the following tasks to 
 
 <img width="302" alt="Deliverable 1" src="https://user-images.githubusercontent.com/691355/125178421-93bfd280-e199-11eb-88f0-be6ac5151b31.png">
 
--  How many votes were cast in this congressional election?
-   
-   The total amount of votes for the congressional election was 369,711.
-
--  Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+-  How many votes were cast in this congressional election?<br/>
 
    
-   Jefferson county had 10.5% of total votes with 38,855 votes, Denver had 82.8% of total votes and 306.055 votes and Arapahoe had 6.7% of total votes and 24,801      votes.
+   The total amount of votes for the congressional election was 369,711.<br/>
+
+
+-  Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.<br/>
+
+
+   
+   Jefferson county had 10.5% of total votes with 38,855 votes, Denver had 82.8% of total votes and 306.055 votes and Arapahoe had 6.7% of total votes and 24,801      votes.<br/>
+
 
 
 -  Which county had the largest number of votes?
