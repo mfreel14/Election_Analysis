@@ -21,7 +21,7 @@ A Colorado Board of Elections employee has given you the the following tasks to 
 
 <img width="302" alt="Deliverable 1" src="https://user-images.githubusercontent.com/691355/125178421-93bfd280-e199-11eb-88f0-be6ac5151b31.png">
 
--  How many votes were cast in this congressional election?<br/>
+-  How many votes were cast in this congressional election?**bold**
 
    
    The total amount of votes for the congressional election was 369,711.<br/>
