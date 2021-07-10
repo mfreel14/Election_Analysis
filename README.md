@@ -21,13 +21,13 @@ A Colorado Board of Elections employee has given you the the following tasks to 
 
 <img width="302" alt="Deliverable 1" src="https://user-images.githubusercontent.com/691355/125178421-93bfd280-e199-11eb-88f0-be6ac5151b31.png">
 
--  How many votes were cast in this congressional election?**bold**
+**-  How many votes were cast in this congressional election?
 
    
    The total amount of votes for the congressional election was 369,711.<br/>
 
 
--  Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.<br/>
+**-  Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.<br/>
 
 
    
