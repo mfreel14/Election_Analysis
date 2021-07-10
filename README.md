@@ -35,13 +35,13 @@ A Colorado Board of Elections employee has given you the the following tasks to 
 
 
 
--  Which county had the largest number of votes?
+-  **Which county had the largest number of votes?**
 
    
    The county which had the largest number of votes was Denver with 306,055.
 
 
--  Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+-  **Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.**
 
    
    The candidates for the election were Charles Casper Stockham, Diana DeGette and Raymond Anthony Doane.  
@@ -54,7 +54,7 @@ A Colorado Board of Elections employee has given you the the following tasks to 
 
 
 
--  Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+-  **Which candidate won the election, what was their vote count, and what was their percentage of the total votes?**
     
   
    The winning candidate of the election was Diana DeGette.  Diana had 272,892 votes which was 73.8% of all votes cast for the election.
