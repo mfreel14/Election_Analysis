@@ -27,14 +27,19 @@ Election-Audit Results: Using a bulleted list, address the following election ou
 
 -  Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
+   
    Jefferson county had 10.5% of total votes with 38,855 votes, Denver had 82.8% of total votes and 306.055 votes and Arapahoe had 6.7% of total votes and 24,801      votes.
+
 
 -  Which county had the largest number of votes?
 
+   
    The county which had the largest number of votes was Denver with 306,055.
+
 
 -  Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
+   
    The candidates for the election were Charles Casper Stockham, Diana DeGette and Raymond Anthony Doane.  
    
    Charles Casper Stockham had 85,213 votes which was 23% of the total votes cast.
@@ -44,9 +49,13 @@ Election-Audit Results: Using a bulleted list, address the following election ou
    Raymond Anthony Doane had 11,606 votes which was 3.1% of the total votes cast.
 
 
+
 -  Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
     
+  
    The winning candidate of the election was Diana DeGette.  Diana had 272,892 votes which was 73.8% of all votes cast for the election.
+   
+   
 
 Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
