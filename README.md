@@ -61,7 +61,20 @@ A Colorado Board of Elections employee has given you the the following tasks to 
    
    
 
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+Election-Audit Summary: 
+Modifications to this script can be made to accomadate the election commissions future needs.  One way this script can be altered is by adjusting the script to grab data from additional columns.  
+
+<img width="474" alt="Screen Shot 2021-07-10 at 4 49 25 PM" src="https://user-images.githubusercontent.com/691355/125178981-cae4b280-e19e-11eb-8067-ae02e2ec77e7.png">
+
+This would be useful if the election commissions wanted to compare county data by year.  Adding a year column into the csv and comparing previous year results may help the commission in identifying voter trends.
+
+
+
+
+
+
+
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 
 
