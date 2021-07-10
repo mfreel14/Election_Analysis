@@ -68,7 +68,9 @@ Modifications to this script can be made to accomadate the election commissions 
 
 This would be useful if the election commissions wanted to compare county data by year.  Adding a year column into the csv and comparing previous year results may help the commission in identifying voter trends.
 
+The election commission would also benefit to use this script for larger elections containing the same csv structure.
 
+<img width="482" alt="Screen Shot 2021-07-10 at 4 57 17 PM" src="https://user-images.githubusercontent.com/691355/125179118-1f3c6200-e1a0-11eb-87ce-576c852478ac.png">
 
 
 
