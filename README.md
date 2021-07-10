@@ -17,7 +17,7 @@ A Colorado Board of Elections employee has given you the the following tasks to 
 ## Challenge Summary
 
 
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+#  Election-Audit Results:
 
 <img width="302" alt="Deliverable 1" src="https://user-images.githubusercontent.com/691355/125178421-93bfd280-e199-11eb-88f0-be6ac5151b31.png">
 
