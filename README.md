@@ -1,13 +1,14 @@
 # Election Analysis
 
-# Project Overview - Election Audit ( Overview of Election Audit: Explain the purpose of this election audit analysis.)
-A Colorado Board of Elections employee has given you the the following tasks to complete the election audit of a recent local congressional election.
+# Project Overview - Election Audit
+The election commission has requested some additional data to complete the election audit:
 
-1.  Calculate the total number of votes cast.
-2.  Get a complete list of candidates who received votes.
-3.  Calculate the total number of votes each candidate received.
-4.  Calculate the percentage of votes each candidate won.
-5.  Determine the winner of the election based on popular vote.
+The voter turnout for each county
+The percentage of votes from each county out of the total count
+The county with the highest turnout
+
+Using our python code we will add for loops and conditional statements with membership and logical operators to find the requested results. The results will then be printed to the command line and our election_results.txt file.
+
 
 ## Resources
 -  Data Source: election_results.csv
@@ -73,4 +74,4 @@ The election commission would also benefit if they wanted to compare voting acor
 
 <img width="362" alt="Screen Shot 2021-07-10 at 5 25 13 PM" src="https://user-images.githubusercontent.com/691355/125179570-38dfa880-e1a4-11eb-9cbd-69cd2044c238.png">
 
-
+We would follow a similar process to the one we did for adding county names and county votes but adjust to provide statewide data.  We could then adjust our formula to include the total population of a state and use this to evaluate voter turnout during the election across each state.
