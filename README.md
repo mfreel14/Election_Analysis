@@ -62,13 +62,18 @@ A Colorado Board of Elections employee has given you the the following tasks to 
    
 
 Election-Audit Summary: 
+
 Modifications to this script can be made to accomadate the election commissions future needs.  One way this script can be altered is by adjusting the script to grab data from additional columns.  
 
 <img width="474" alt="Screen Shot 2021-07-10 at 4 49 25 PM" src="https://user-images.githubusercontent.com/691355/125178981-cae4b280-e19e-11eb-8067-ae02e2ec77e7.png">
 
 This would be useful if the election commissions wanted to compare county data by year.  Adding a year column into the csv and comparing previous year results may help the commission in identifying voter trends.
 
-The election commission would also benefit to use this script for larger elections containing the same csv structure.
+The election commission would also benefit if they wanted to compare voting acorss each state.  The script modification would be an added list and dictionary for state names and state votes.
+
+<img width="362" alt="Screen Shot 2021-07-10 at 5 25 13 PM" src="https://user-images.githubusercontent.com/691355/125179570-38dfa880-e1a4-11eb-9cbd-69cd2044c238.png">
+
+
 
 
 
