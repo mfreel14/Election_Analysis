@@ -61,7 +61,7 @@ A Colorado Board of Elections employee has given you the the following tasks to 
    
    
 
-Election-Audit Summary: 
+## Election-Audit Summary: 
 
 Modifications to this script can be made to accomadate the election commissions future needs.  One way this script can be altered is by adjusting the script to grab data from additional columns.  
 
@@ -74,14 +74,3 @@ The election commission would also benefit if they wanted to compare voting acor
 <img width="362" alt="Screen Shot 2021-07-10 at 5 25 13 PM" src="https://user-images.githubusercontent.com/691355/125179570-38dfa880-e1a4-11eb-9cbd-69cd2044c238.png">
 
 
-
-
-
-
-
-
-
-
-
-
-## Challenge Summary
