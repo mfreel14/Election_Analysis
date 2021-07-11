@@ -1,6 +1,6 @@
 # Election Analysis
 
-# Project Overview - Election Audit
+## Project Overview - Election Audit
 The election commission has requested some additional data to complete the election audit:
 
 The voter turnout for each county
